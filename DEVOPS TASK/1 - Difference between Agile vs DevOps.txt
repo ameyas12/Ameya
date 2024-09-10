@@ -1,0 +1,40 @@
+Difference between Agile and DevOps
+
+-> 1. It started in the year 2001.	
+   1. It started in the year 2007.
+	
+   2. Invented by John Kern, and Martin Fowler. 	
+   2. Invented by John Allspaw and Paul Hammond at Flickr, and the Phoenix Project by Gene Kim.
+	
+   3. Agile is a software development methodology.
+   3. DevOps is a broader approach. Its scope captures both software development and IT operations
+
+   4. Agile promotes incremental and iterative development
+   4. DevOps promotes collaboration between software development and operations teams to automate and streamline workflow.
+	
+   5. Agile promotes communication and collaboration between team members and stakeholders
+   5. DevOps promotes close communication and collaboration between its software development and operations teams.
+
+   6. A few of the finest steps embraced in Agile are recorded underneath – 1. Backlog Building 2.Sprint advancement	
+   6. DevOps to have a few best hones that ease the method – 1. Focus on specialized greatness. 2. Collaborate straightforwardly with clients and join their feedback.
+   
+   7. It is suitable for managing complex projects in any department.
+   7. It centers on the complete engineering process.
+   
+   8. Agile uses Scrum and Kanban frameworks
+   8. DevOps uses automation and CI/CD pipelines to reach its goals.
+
+   9. Some of the Tools - Bugzilla
+			    JIRA 
+			    Kanboard and more.
+   9. Some of the Tools - Puppet
+			   Ansible
+			   AWS
+			   Chef
+			   team City OpenStack and more.
+
+   10. Agile focuses on properly-working software versus detailed documentation
+   10. DevOps focuses on detailed documentation to facilitate smooth collaboration.
+
+   11. Agile divides its projects into timeframes called as sprints,  one to four weeks
+   11. DevOps does not have set timeframes since it is a continuous process. 

@@ -1,0 +1,19 @@
+Difference between AMI and Instance
+-> 1. The blueprint or template that includes the OS, application server, and software used to create instances.
+   1. A running virtual machine created from an AMI.
+   2. AMI is Static, does not change after creation.
+   2. Instance is Dynamic, can be started, stopped, restarted, or terminated.
+   3. Created once and used to launch multiple instances.
+   3. Created each time an instance is launched from an AMI.
+   4. No direct cost.
+   4. We get Costs are based on instance usage.
+   5. Can be used as a backup by creating an AMI of a running instance.
+   5. Data can be backed up using EBS snapshots or AMIs.
+   6. To update an AMI, create a new one and launch instances from it.
+   6. Instances must be manually updated or patched.
+   7. By default AMI is Encrypted.
+   7. By default Instance is not Encrypted. 
+   7. AMI can be shared from one account to another account.
+   7. Instance cannot be shared from one account to another account instead we can create Custom Image out of that instance and that Image can be shared or Instance launched in another
+      account   
+

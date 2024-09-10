@@ -1,0 +1,10 @@
+Types of Virtualizer
+-> Hyper-V , VirtualBox , Oracle VB , VMwware , IBM , XenServer , Citrix , 
+
+Types of Virtualization
+-> Server virtualization , Storage virtualization , Network virtualization , Data virtualization , Application virtualization , Desktop virtualization.
+
+Types of kernel
+-> monolithic , microkernel , hybrid , nanokernel & exokernel
+
+On Permises to Cloud Migration

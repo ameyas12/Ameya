@@ -1,0 +1,9 @@
+Difference btw AMI and Snapshots
+-> 1. A pre-configured template that includes OS, application software and configurations.
+   1. A backup or point in time copy of an EBS volume or instance root volume.  
+   2. Stored as an image in AWS, used for creating instances.
+   2. Stored as a block-level backup of EBS volumes.
+   3. AMIs are used to launch instances.
+   3. Snapshots are used to create new volumes or restore existing ones.
+   4. Both AMI and Snapshots is stored in S3
+   
